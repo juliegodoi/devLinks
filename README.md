@@ -16,4 +16,5 @@ Esse projeto foi desenvolvido junto ao <strong>Discover</strong> da <strong>Rock
 - JavaScript
 - Git e Github
 
-- [Acesse o projeto finalizado aqui](https://julie-godoi-links.vercel.app/)
+##
+[Acesse o projeto finalizado aqui](https://julie-godoi-links.vercel.app/)
