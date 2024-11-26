@@ -1,4 +1,4 @@
-<h1 align="center"> devLinks </h1>
+<h1 align="center"> meus-links </h1>
 
 <br>
 
@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-O devLinks é um agregador de links para usar como cartão de visitas online.
+Este é um agregador de links para usar como cartão de visitas online.
 
 Esse projeto foi desenvolvido junto ao <strong>Discover</strong> da <strong>Rocketseat</strong> com as seguintes tecnologias:
 
