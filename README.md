@@ -16,4 +16,4 @@ Esse projeto foi desenvolvido junto ao <strong>Discover</strong> da <strong>Rock
 - JavaScript
 - Git e Github
 
-- [Acesse o projeto finalizado aqui](https://juliegodoi.github.io/devLinks/)
+- [Acesse o projeto finalizado aqui]()
